@@ -158,8 +158,7 @@ def logo():
                                                                     
     """)
     
-if __name__ == '__main__':
-    
+def main():    
     logo()
     PROJECT_NAME = str(input("Enter Name For Your Project : "))
     HOMEPAGE = str(input("Enter Url to Crawl : "))
@@ -196,3 +195,6 @@ if __name__ == '__main__':
 
     create_workers()
     crawl()
+
+if __name__ == '__main__':
+    main()
