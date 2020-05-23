@@ -14,4 +14,4 @@ To Run : `user@host:~ python3 crawler.py`
 
 Have fun with web crawler
 
-# If you have no hurry then go with 0 threads
+# If you have no hurry then go with 1 threads
