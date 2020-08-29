@@ -2,7 +2,7 @@
 
 This crawler will ask for website, Project(Folder to create), Threads to use.
 
-This script will spider websites for you input.
+This script will spider websites for your input.
 
 Required Libraries will be pre installed when you install Python, if not then...
 
